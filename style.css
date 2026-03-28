@@ -61,7 +61,7 @@ body {
 
 @font-face {
   font-family: 'Berlin Sans';
-  src: url('fonts/berlinsansFBDemi.TTF') format('truetype');
+  src: url('fonts/BerlinSansFBDemi.TTF') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
